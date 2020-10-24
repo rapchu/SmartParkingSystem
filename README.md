@@ -17,3 +17,5 @@ After selecting the mall it will display the prices of parking in the mall
 # Choose Parking
 You have to choose your parking timings and also parking place in the mall ,after choosing this next will be the payment  section.
 ![Screen Shot 2020-10-24 at 9 16 44 AM](https://user-images.githubusercontent.com/40193113/97069042-b483d000-15ea-11eb-82c0-04c7ff1182af.jpg)
+![Screen Shot 2020-10-24 at 9 16 50 AM](https://user-images.githubusercontent.com/40193113/97069082-104e5900-15eb-11eb-8736-36fc40d0d13e.jpg)
+
