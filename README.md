@@ -8,3 +8,6 @@ If you are a new user then you have to signup with the smartpark by giving your 
 # Home Screen 
 After Your Signup you will see the home screen  and now we are at four places in India ->Delhi,Chennai,Hyderabad & Mumbai and also launching in other parts of India also
 ![Screen Shot 2020-10-24 at 9 16 15 AM](https://user-images.githubusercontent.com/40193113/97068635-0d516980-15e7-11eb-82df-93bb23abcf9f.jpg)
+# Delhi 
+choose the location are you in  & in delhi we are providing our services in two malls ,choose the mall that yoy want to go
+![Screen Shot 2020-10-24 at 9 16 23 AM](https://user-images.githubusercontent.com/40193113/97068705-b39d6f00-15e7-11eb-9a3e-b61d39b8ea2a.jpg)
